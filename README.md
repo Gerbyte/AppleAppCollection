@@ -65,7 +65,7 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Desk Remote Control](https://deskremotecontrol.com)** 🆓: Eine App zur Steuerung deines Macs von einem anderen Gerät aus, um Fernzugriff und Verwaltung zu ermöglichen.
 
-- **[DockDoor](https://dockdoorapp.com)** 🆓: Ermöglicht die Anpassung und Verwaltung deines macOS-Docks für eine bessere Benutzererfahrung.
+- **[DockDoor](https://dockdoor.net)** 🆓: Ermöglicht die Anpassung und Verwaltung deines macOS-Docks für eine bessere Benutzererfahrung.
 
 - **[Elgato Stream Deck](https://www.elgato.com/en/stream-deck)** 💰: Ermöglicht die Anpassung und Automatisierung von Aufgaben für Streamer und Content-Ersteller mit einem programmierbaren Tastenfeld.
 
