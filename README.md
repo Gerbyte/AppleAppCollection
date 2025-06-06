@@ -117,8 +117,6 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Remote Desktop Manager](https://remotedesktopmanager.com)** 💰: Eine umfassende Lösung zur Verwaltung von Remote-Verbindungen und virtuellen Maschinen.
 
-- **[Rewind](https://rewind.com)** 🆓: Eine App zur Verwaltung und Sicherung von Dateien und Projekten, um Änderungen rückgängig machen zu können.
-
 - **[Secretive](https://github.com/maxgoedjen/secretive)** 🆓: Eine App zur Verwaltung von SSH-Schlüsseln direkt in der Secure Enclave deines Macs.
 
 - **[Tresorit](https://tresorit.com)** 💰: Eine sichere Cloud-Speicherlösung, die Verschlüsselung für den Schutz von Dateien und Daten bietet.
