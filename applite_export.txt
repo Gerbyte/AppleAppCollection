@@ -33,6 +33,7 @@ podman-desktop
 rancher
 remote-desktop-manager
 secretive
+the-unarchiver
 tresorit
 tripmode
 visual-studio-code
