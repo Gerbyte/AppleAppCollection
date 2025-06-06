@@ -107,8 +107,6 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[PDFify](https://pdfify.app)** 🆓: Ein Werkzeug zum Erstellen von PDFs aus verschiedenen Dokumenten- und Bildformaten mit OCR-Unterstützung.
 
-- **[pgAdmin 4](https://www.pgadmin.org)** 🆓: Eine umfassende Verwaltungsplattform für PostgreSQL-Datenbanken.
-
 - **[Ping](https://itunes.apple.com/us/app/ping/id449811946?mt=12)** 🆓: Eine einfache App zur Überwachung der Netzwerkverbindung und Latenzzeiten.
 
 - **[Podman Desktop](https://podman.io)** 🆓: Eine Container-Management-App, die Podman-Container auf deinem Mac verwaltet.
