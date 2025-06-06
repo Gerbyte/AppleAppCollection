@@ -4,6 +4,7 @@ bartender
 beekeeper-studio
 brave-browser
 chatbox
+daisydisk
 deepl
 drawio
 dockdoor
