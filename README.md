@@ -61,7 +61,7 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Chatbox](https://getchatbox.com)** 🆓: Eine App zur Verwaltung und Organisation von Chat-Nachrichten aus verschiedenen Plattformen.
 
-- **[Desk Remote Control](https://deskremotecontrol.com)** 🆓: Eine App zur Steuerung deines Macs von einem anderen Gerät aus, um Fernzugriff und Verwaltung zu ermöglichen.
+- **[Remote Desktop Manager](https://devolutions.net/de/remote-desktop-manager/)** 🆓💰: Eine App zur Steuerung deines Macs von einem anderen Gerät aus, um Fernzugriff und Verwaltung zu ermöglichen.
 
 - **[DockDoor](https://dockdoor.net)** 🆓: Ermöglicht die Anpassung und Verwaltung deines macOS-Docks für eine bessere Benutzererfahrung.
 
