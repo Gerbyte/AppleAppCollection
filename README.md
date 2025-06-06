@@ -111,7 +111,7 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Podman Desktop](https://podman.io)** 🆓: Eine Container-Management-App, die Podman-Container auf deinem Mac verwaltet.
 
-- **[Postman](https://www.postman.com)** 🆓: Ein API-Entwicklungstool, das Testen, Entwickeln und Überwachen von APIs vereinfacht.
+- **[Hoppscotch](https://hoppscotch.io)** 🆓: Ein API-Entwicklungstool, das Testen, Entwickeln und Überwachen von APIs vereinfacht.
 
 - **[Rancher Desktop](https://rancherdesktop.io)** 🆓: Eine App zur Verwaltung von Kubernetes- und Container-Workloads direkt auf deinem Mac.
 
