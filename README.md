@@ -91,8 +91,6 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Luxafor](https://luxafor.com/downloads/)** 🆓: Eine App zur Verwaltung von Benachrichtigungen und Statusanzeigen mit kompatiblen Geräten.
 
-- **[MacPass](https://macpassapp.org)** 🆓: Ein Passwort-Manager, der eine sichere Verwaltung von Passwörtern und Anmeldedaten bietet.
-
 - **[Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)** 💰: Überwacht die Nutzung von Mikrofon und Webcam und benachrichtigt dich über unerwünschte Zugriffe.
 
 - **[MonitorControl](https://github.com/MonitorControl/MonitorControl)** 🆓: Eine App zur Steuerung der Helligkeit und Lautstärke externer Monitore direkt von deinem Mac aus.
