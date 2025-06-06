@@ -61,8 +61,6 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Chatbox](https://getchatbox.com)** 🆓: Eine App zur Verwaltung und Organisation von Chat-Nachrichten aus verschiedenen Plattformen.
 
-- **[CheatSheet](https://www.mediaatelier.com/CheatSheet/)** 🆓: Zeigt alle Tastaturkürzel für die gerade aktive Anwendung an, um die Produktivität zu steigern.
-
 - **[Desk Remote Control](https://deskremotecontrol.com)** 🆓: Eine App zur Steuerung deines Macs von einem anderen Gerät aus, um Fernzugriff und Verwaltung zu ermöglichen.
 
 - **[DockDoor](https://dockdoor.net)** 🆓: Ermöglicht die Anpassung und Verwaltung deines macOS-Docks für eine bessere Benutzererfahrung.
