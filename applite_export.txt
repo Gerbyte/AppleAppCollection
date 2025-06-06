@@ -20,6 +20,7 @@ little-snitch
 logi-options+
 loop
 micro-snitch
+macupdater
 moneymoney
 monitorcontrol
 notebooks
