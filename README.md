@@ -73,8 +73,6 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Infuse](https://firecore.com/infuse)** 💰: Ein Multimedia-Player, der eine Vielzahl von Formaten unterstützt und eine hervorragende Streaming-Integration bietet.
 
-- **[iScreen Shoter](https://apps.apple.com/app/iscreen-shoter/id1547028700)** 🆓: Ein einfaches Tool zum Aufnehmen und Bearbeiten von Screenshots auf deinem Mac.
-
 - **[iStat Menus](https://bjango.com/mac/istatmenus/)** 💰: Zeigt detaillierte Systeminformationen und Leistungsstatistiken direkt in der Menüleiste an.
 
 - **[iTerm](https://iterm2.com)** 🆓: Ein erweitertes Terminal für macOS, das viele Funktionen und Anpassungsmöglichkeiten bietet.
