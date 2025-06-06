@@ -59,6 +59,8 @@ Software, die meinen Mac-Arbeitsplatz produktiver macht.
 
 - **[Bumpr](https://bumpr.app)** 💰: Ermöglicht das einfache Öffnen von Links und E-Mails mit verschiedenen Browsern oder E-Mail-Clients.
 
+- **[Busy Tag](https://busy-tag.com)** 🆓: Busy Tag® ist ein hochauflösendes Bildschirmgerät mit integriertem „Busy Light“, das Arbeitsstatus, GIFs, Memes und benutzerdefinierte Nachrichten anzeigt, um Ablenkungen zu reduzieren und mit hunderten von Apps verbunden zu werden.
+
 - **[Chatbox](https://getchatbox.com)** 🆓: Eine App zur Verwaltung und Organisation von Chat-Nachrichten aus verschiedenen Plattformen.
 
 - **[Remote Desktop Manager](https://devolutions.net/de/remote-desktop-manager/)** 🆓💰: Eine App zur Steuerung deines Macs von einem anderen Gerät aus, um Fernzugriff und Verwaltung zu ermöglichen.
