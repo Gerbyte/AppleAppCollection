@@ -5,6 +5,7 @@ beekeeper-studio
 brave-browser
 chatbox
 deepl
+drawio
 dockdoor
 elgato-stream-deck
 github
