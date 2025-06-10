@@ -21,6 +21,8 @@ lens
 little-snitch
 logi-options+
 loop
+microsoft-auto-update
+microsoft-teams
 micro-snitch
 macupdater
 moneymoney
