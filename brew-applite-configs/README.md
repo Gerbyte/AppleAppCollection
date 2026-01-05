@@ -1,4 +1,4 @@
-# Projektname
+# Projektname AppleAppCollection
 
 Willkommen in diesem Repository! Diese Anleitung beschreibt, wie du die benötigten Tools und Pakete installieren und exportieren kannst.
 
